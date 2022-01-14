@@ -21,7 +21,8 @@ Some of the tasks included in this project were:
 In the yearly comparison of stocks, it showed that in the early return (percentage increase or decrease in price from the beginning of the year to the end of the year), 11 out of 12 stocks had a positive outcome. DQ (the company in which Steve's parents are interested) had highest growth of 199.45%! But in 2018 only 2 out of 12 stocks had positive percentage. DQ's had the highest **drop** among 12 shares with 62.5%.
 Which clearly suggests that now is not the right time to invest in DQ.
 
-![](https://github.com/aem-saidur-rahman/stock-analysis/blob/main/yearly%20comparison.png?raw=true)
+![](https://github.com/aem-saidur-rahman/stock-analysis/blob/main/Resources/yearly%20comparison.png)
+
 
 
 -----------Comparing Code Performance---------
@@ -180,7 +181,7 @@ In the original code below tasks were performed
 
 *Run time comparison*
 
-![](https://github.com/aem-saidur-rahman/stock-analysis/blob/main/timing.png?raw=true)
+![](https://github.com/aem-saidur-rahman/stock-analysis/blob/main/Resources/timing.png)
 
 Above image shows the improvement in macro timing with code refactoring
 
