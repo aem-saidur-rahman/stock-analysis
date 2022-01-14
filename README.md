@@ -25,7 +25,7 @@ Which clearly suggests that now is not the right time to invest in DQ.
 
 
 
------------Comparing Code Performance---------
+-----------**Comparing Code Performance**---------
 
 In the original code below tasks were performed
 
@@ -179,7 +179,7 @@ In the original code below tasks were performed
     Next i
     
 
-*Run time comparison*
+***Run time comparison***
 
 ![](https://github.com/aem-saidur-rahman/stock-analysis/blob/main/Resources/timing.png)
 
